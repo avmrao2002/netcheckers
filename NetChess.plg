@@ -1,0 +1,44 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: NetChess - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x409 /fo"Debug/NetChess.res" /d "_DEBUG" "D:\avm\software\NetCheckers\NetChess.rc"" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1.PRA\LOCALS~1\Temp\RSP11C.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/NetCheckers.pdb" /debug /machine:I386 /out:"Debug/NetCheckers.exe" /pdbtype:sept 
+.\Debug\ChessBoard.obj
+.\Debug\ClientSocket.obj
+.\Debug\GameTypeDlg1.obj
+.\Debug\History.obj
+.\Debug\HistoryDlg.obj
+.\Debug\HowToPlayDlg.obj
+.\Debug\MainFrm.obj
+.\Debug\MessageSend.obj
+.\Debug\MyColorDialog.obj
+.\Debug\NetChess.obj
+.\Debug\NetChessDoc.obj
+.\Debug\NetChessView.obj
+.\Debug\Options.obj
+.\Debug\PickPieceDlg.obj
+.\Debug\PropertiesDlg.obj
+.\Debug\ServerInfoDlg.obj
+.\Debug\ServerSocket.obj
+.\Debug\StdAfx.obj
+.\Debug\NetChess.res
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1.PRA\LOCALS~1\Temp\RSP11C.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+NetCheckers.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
